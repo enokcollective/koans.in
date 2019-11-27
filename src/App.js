@@ -45,7 +45,7 @@ class App extends Component {
         </header>
 
         <section className="languages">
-          {languages.map((language, index) => <a key={index} href={language.url} className="language" target="_blank">{language.name}</a>)}
+          {languages.map((language, index) => <a key={index} href={language.url} className="language" target="_blank" rel="noopener noreferrer">{language.name}</a>)}
         </section>
       </div>
     );
