@@ -1,2 +1,3 @@
-# koans.in
-The site files for koans.in
+# Koans Marketing Site
+
+The site files for koans.app
