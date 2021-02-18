@@ -6,7 +6,7 @@ function App() {
       <div className="header">
 	 <h1>Koans <span className="badge">alpha</span></h1>
       </div>
-      <div className="subtitle">Solve problems in your language.</div>
+      <div className="subtitle">Learn programming languages with the ancient koans technique.</div>
       <ul className="languages">
 	  <li><a href="https://github.com/enokcollective/javascript-koans">JavaScript</a></li>
 	  <li><a href="https://github.com/enokcollective/python-koans">Python</a></li>
